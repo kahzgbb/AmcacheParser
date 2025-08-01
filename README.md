@@ -2,6 +2,7 @@
 
 **Amcache Filter Viewer** is a simple yet powerful console application that parses and displays Amcache entries from Windows in a formatted table view.  
 It allows users to apply filters based on criteria like file name, size, SHA1 hash, or version, and highlights matching entries in red while pushing them to the top of the list.
+**To work correctly, disable your antivirus.**
 
 ## How to Download?
 Access <a href="/releases/tag/Releases">Releases Page</a> click on AmcacheParser.exe and download file.
